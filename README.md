@@ -7,7 +7,7 @@ El objetivo principal del proyecto es demostrar la viabilidad técnica de una re
 ## 🚀 Acceso al Proyecto
 Puedes visualizar la simulación completa, los mapas de cobertura y la distribución de nodos en el siguiente enlace:
 
-### [[[🔗 Clic aquí para ver el Proyecto / Mapa de la Red](https://drive.google.com/file/d/1HoPtzvfeB-AShj6VPkjJrsDFKDhhyiH_/view?usp=sharing)]
+### [[[🔗 Clic aquí para ver el Proyecto / Mapa de la Red]([https://drive.google.com/file/d/1HoPtzvfeB-AShj6VPkjJrsDFKDhhyiH_/view?usp=sharing]
 
 ---
 
